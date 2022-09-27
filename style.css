@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/9c/0e/1c/9c0e1ceab84210e42f915f159e9c17ea.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: roboto-condensed, sans-serif;
+  color: orangered;
+}
+h1 h2 {
+  font-family: Kanit, sans-serif;
+}
+
+.two-hundred {
+  display: inline-block;
+  text-align: center;
+  width: 200px;
+  margin: auto;
+}
